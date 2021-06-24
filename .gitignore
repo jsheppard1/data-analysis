@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.heic
+*.pdf
+*.csv
+*.png
+/suprise_data
