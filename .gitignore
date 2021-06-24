@@ -134,3 +134,5 @@ dmypy.json
 *.png
 /Homework_6/suprise_data/*
 /Class_Notebooks/*
+/Data/*
+Soccer_Analytics/database.sqlite
