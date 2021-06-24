@@ -132,5 +132,5 @@ dmypy.json
 *.pdf
 *.csv
 *.png
-/suprise_data/*
+/Homework_6/suprise_data/*
 /Class_Notebooks/*
