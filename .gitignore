@@ -133,3 +133,4 @@ dmypy.json
 *.csv
 *.png
 /suprise_data
+/Class_Notebooks
